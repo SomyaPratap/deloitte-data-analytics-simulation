@@ -19,9 +19,10 @@ This repo contains my work from Deloitte Australia's **Data Analytics Job Simula
 **Key finding:** Daikibo Factory Seiko had the highest downtime (480 minutes), almost entirely driven by a single machine type — the LaserWelder. Shenzhen followed at 420 minutes. Berlin had the least downtime (20 minutes), suggesting stronger preventive maintenance practices worth replicating elsewhere.
 
 📊 **Dashboard screenshot:**
-`/tableau-downtime-analysis/dashboard-screenshot.png`
+<img width="960" height="989" alt="Screenshot 2026-07-10 131111" src="https://github.com/user-attachments/assets/f9271f6c-79ab-47a2-9904-90945b5e651e" />
 
-*(Optional: publish the interactive version to Tableau Public and link it here.)*
+
+🔗 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/somya.pratap.singh/viz/DaikiboManufacturingDowntimeAnalysis/Dashboard1?publish=yes)
 
 ---
 
@@ -42,7 +43,8 @@ This repo contains my work from Deloitte Australia's **Data Analytics Job Simula
 - Disparities were concentrated in senior roles (C-Level, VP, Director, Manager), while junior/technical roles (Jr. Engineer, Machine Operator) stayed close to Fair.
 - Daikibo Factory Meiyo had the most severe cases (VP: -26, C-Level: -25). Berlin was the most equitable factory, with no Highly Discriminative roles.
 
-📄 **Output file:** `/gender-pay-equity-analysis/Equality_Table_Updated.xlsx`
+📄 **Output file:** [Equality_Table_Updated.xlsx](https://github.com/user-attachments/files/29888185/Equality_Table_Updated.xlsx)
+
 
 ---
 
